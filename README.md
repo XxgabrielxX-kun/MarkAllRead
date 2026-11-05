@@ -4,7 +4,7 @@ Features:
 
 Right-click any server → “Marcar TUDO como lido” to mark everything as read;
 
-Hotkey: Ctrl + Alt + R works from anywhere in Discord;
+Hotkey: standard Ctrl + Shift + L, but you can customize the shortcut;
 
 A button in the plugin settings;
 
@@ -34,7 +34,7 @@ Recursos:
 
 Botão direito em qualquer servidor → “Marcar TUDO como lido”;
 
-Atalho Ctrl + Alt + R, que funciona em qualquer tela do Discord;
+Atalho padrão é Ctrl + Shift + L, mas você pode escolher o atalho;
 
 Botão nas configurações do plugin;
 
